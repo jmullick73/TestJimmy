@@ -1,2 +1,2 @@
 # TestJimmy
-Test Repository
+Test Repository for Git Commands demonstration
